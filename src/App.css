@@ -1,0 +1,16 @@
+#cover{
+  background: url('cover123.jpg') center center  no-repeat;
+  background-size: cover;
+}
+#header2{
+  background: url('home_cover.jpg') center center  no-repeat;
+  background-size: cover;
+
+}
+.signInButton{
+  margin: 10px;
+  margin-left: 12%;
+  margin-right: 12%;
+  justify-content: center;
+  background-color: red;
+}
